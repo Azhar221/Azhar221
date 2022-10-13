@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I am Azhar! Great to see you here! 👋
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Azhar221&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 <!--
 **Azhar221/Azhar221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
