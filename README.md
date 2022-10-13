@@ -5,8 +5,9 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Azhar221&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p>
-<br />
 <hr />
+<br />
+
 
 ## 📈 Statistics
 
@@ -14,8 +15,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhar221&bg_color=0f2d3d&color=1cadfb&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Azhar221&theme=tokyonight&hide_border=true&background=0F2D3D"/>
 </p>
-<br />
 <hr />
+<br />
 
 ### Now Playing 🎧
 
