@@ -4,8 +4,8 @@
 
 ## 📈 Stats
 <p align="center">	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhar221&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhar221&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhar221&bg_color=0f2d3d&color=1cadfb&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhar221&bg_color=0f2d3d&color=1cadfb&theme=tokyonight" />
 </p>
 
 <!--
