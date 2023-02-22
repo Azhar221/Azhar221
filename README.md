@@ -18,6 +18,11 @@
 <hr />
 <br />
 
+[![An image of @azhar22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azhar22)](https://holopin.io/@azhar22)
+
+<hr />
+
+
 <!-- ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31o6piudbusn4sw4r6z7u6o4p77e)
