@@ -2,9 +2,9 @@
 <br />
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Azhar221&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-</p>
+</p> -->
 <hr />
 <br />
 
@@ -18,10 +18,10 @@
 <hr />
 <br />
 
-### Now Playing 🎧
+<!-- ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31o6piudbusn4sw4r6z7u6o4p77e)
-<br/>
+<br/> -->
 
 
 <!--
